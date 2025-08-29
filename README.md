@@ -3,7 +3,8 @@
 # dataset use
 https://github.com/Pranavraj24/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx
 
-Questions 
+#Questions 
+
 1.	Does marital status affect the likelihood of purchasing a bike?
 2.	Which region (Europe, North America, Pacific) has more bike buyers?
 3.	How does education level influence bike purchases?
@@ -15,17 +16,19 @@ Questions
 9.	Do people with longer commutes buy more or fewer bikes?
 10.	What are the key customer segments (by income, gender, age, region, education) that are most likely to buy bikes?
 
-Dashboard
+#Dashboard
+
 https://github.com/Pranavraj24/Bike-Sales-Dashboard/blob/main/Screenshot%202025-08-29%20153428.png
 
-project insights
+#project insights
+
 •  Understand customer profiles – by showing sales segmented by marital status, region, and education.
 •  Analyze income levels – to see how average income impacts bike purchase decisions across gender.
 •  Study age influence – through customer age brackets and their relation to bike purchases.
 •  Examine commute distance – to check how far customers travel and whether that affects the likelihood of purchasing a bike.
 •  Compare purchase vs. non-purchase trends – in all segments (income, age, distance, etc.).
 
-Final Conclusion
+#Final Conclusion
 
 The Bike Sale Dashboard reveals that customer demographics such as age, gender, marital status, region, and education, along with factors like income level and commute distance, significantly influence bike purchase decisions. Middle-aged customers with higher incomes are the most likely to purchase bikes, while purchasing patterns vary across regions and educational backgrounds.
 
