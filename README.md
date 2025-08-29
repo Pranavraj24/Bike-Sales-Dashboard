@@ -22,11 +22,11 @@ https://github.com/Pranavraj24/Bike-Sales-Dashboard/blob/main/Screenshot%202025-
 
 #project insights
 
-•  Understand customer profiles – by showing sales segmented by marital status, region, and education.
-•  Analyze income levels – to see how average income impacts bike purchase decisions across gender.
-•  Study age influence – through customer age brackets and their relation to bike purchases.
-•  Examine commute distance – to check how far customers travel and whether that affects the likelihood of purchasing a bike.
-•  Compare purchase vs. non-purchase trends – in all segments (income, age, distance, etc.).
+1. Understand customer profiles – by showing sales segmented by marital status, region, and education.
+2. Analyze income levels – to see how average income impacts bike purchase decisions across gender.
+3. Study age influence – through customer age brackets and their relation to bike purchases.
+4. Examine commute distance – to check how far customers travel and whether that affects the likelihood of purchasing a bike.
+5. Compare purchase vs. non-purchase trends – in all segments (income, age, distance, etc.).
 
 #Final Conclusion
 
